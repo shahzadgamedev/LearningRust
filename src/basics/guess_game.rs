@@ -1,7 +1,7 @@
 use rand::Rng;
 use std::io;
 
-pub fn GuessGameLoop()
+pub fn guess_game_loop()
 {
     println!("Hello, world!");
 

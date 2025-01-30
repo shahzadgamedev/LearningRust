@@ -4,5 +4,5 @@ mod basics {
 }
 
 fn main() {
-    basics::guess_game::GuessGameLoop();
+    basics::guess_game::guess_game_loop();
 }
